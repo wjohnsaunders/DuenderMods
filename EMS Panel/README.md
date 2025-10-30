@@ -11,8 +11,8 @@ for solving any cable management issue.
 
 https://www.printables.com/model/558357-ft-ems-mounts-repository
 
-Not that there is no upper lid for the electronis bay, I was thinking a sheet
-of Acrylic with a cutout or two for  fans. The hexagon holes in the EMS panel
+Note that there is no upper lid for the electronis bay, I was thinking a sheet
+of Acrylic with a cutout or two for fans. The hexagon holes in the EMS panel
 will allow cooling air to pass out from underneath the Duender.
 
 ## Printing
