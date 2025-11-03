@@ -21,6 +21,10 @@ Print with the flat side down, it should import in the correct orientation.
 No supports are necessary. There are some bridges, but they should print OK
 provided you have some part cooling enabled.
 
+The dimensions should give you 1mm gap in both directions, however filament
+shrinkage could cause more gap. So it's best to calibrate the shrinkage for
+your filament and set that in the slicer before printing.
+
 ## Installation
 
 The panel mounts in the bottom of the reactangle formed by the 4040 extrusions
@@ -31,9 +35,9 @@ be easier to make adjustments. Once you have worked out the positions, remove
 the components from the mounts, install the panel and re-install the components.
 
 Use 8 sets of M5x8 bolt and M8 T-nut (should have a bunch available from the
-corner braket packs) to bolt it to the lower V-slot. The EMS base should be
+corner braket packs) to bolt it to the upper V-slot. The EMS base should be
 flush with the bottom of the 4040 extrusions, and should clear the Z-axis
-steppers if you didn't space them any lower.
+steppers if you didn't use spacers to place them lower.
 
 ## CAD
 
