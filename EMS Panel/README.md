@@ -11,7 +11,7 @@ for solving any cable management issue.
 
 https://www.printables.com/model/558357-ft-ems-mounts-repository
 
-Note that there is no upper lid for the electronis bay, I was thinking a sheet
+Note that there is no upper lid for the electronics bay, I was thinking a sheet
 of Acrylic with a cutout or two for fans. The hexagon holes in the EMS panel
 will allow cooling air to pass out from underneath the Duender.
 
@@ -21,13 +21,17 @@ Print with the flat side down, it should import in the correct orientation.
 No supports are necessary. There are some bridges, but they should print OK
 provided you have some part cooling enabled.
 
+The model is 288x249 so you will need a printer capable of 300mm. You can
+use the slicer to split it into 4 parts, then super glue it back together.
+There are “dog-bone” joiners available for EMS if gluing is not strong enough.
+
 The dimensions should give you 1mm gap in both directions, however filament
 shrinkage could cause more gap. So it's best to calibrate the shrinkage for
 your filament and set that in the slicer before printing.
 
 ## Installation
 
-The panel mounts in the bottom of the reactangle formed by the 4040 extrusions
+The panel mounts in the bottom of the rectangle formed by the 4040 extrusions
 in the base of the Duender. Your electronics mounts to the base using the plugs
 and adapter mounts from the FT EMS repository. I suggest working out the
 electronics component placement while the EMS base is not installed, as it will
