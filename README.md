@@ -80,3 +80,25 @@ to provide stability against twisting. I believe it works well as a stop-gap
 until you can install rails. The only negative is that you cannot adjust the
 wheel tension without removing the stock parts from the top. So make sure
 you adjust the wheel tension before full assembly.
+
+## X Mount MGN12
+
+This mod adds support for using an MGN12H linear rail and carriage for the X
+axis.
+
+I feel that these size rails mount better on the V-slot extrusions, and MGN12
+is the current X axis standard for DIY printers like the Vorons and others.
+It opens up more options for alternative toolheads and mounting systems. The
+only con being that the nozzle is pushed further forward.
+
+## EMS Panel and Various EMS Mounts
+
+What is EMS? It is a system for managing the electronics for 3D printers from
+FizzyTechs. It consists of a panel with hexagon cutouts, a set of hexagon
+shaped plugs that fit into the panel, and a repository of mounts for various
+3D printer electrical components. The idea is that if you replace a component,
+or need to move one around, you can just print the mount for the new component,
+or move the plugs to a different cutout. There are also plugs for zip-ties,
+and a set of cable ducts for solving any cable management issue.
+
+https://www.printables.com/model/558357-ft-ems-mounts-repository
