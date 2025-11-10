@@ -19,10 +19,10 @@ The part has been designed to print with no supports.
 
 ## Installation
 
-Install 5 heatset inserts from underneath. Attach the mount to some EMS plugs.
-Attach the Creality control board to the mount with some M3x6 or M3x8 bolts.
+Install 5 heatset inserts from the top. Attach the mount with some EMS plugs
+into the base. Attach the Creality control board to the mount with some
+M3x6 or M3x8 bolts.
 
 ## CAD
 
-The part is designed using FreeCAD. I can't provide STEP files, sorry, as
-FreeCAD can only import STEP files, it cannot export them as far as I know.
+The part was designed using FreeCAD.
