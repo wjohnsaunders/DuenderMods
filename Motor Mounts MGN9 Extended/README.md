@@ -1,24 +1,24 @@
-# Motor Mounts MGN9
+# Motor Mounts MGN9 Extended
 
-This project contains a re-design of the motor mounts from Andizzle, however
-adds 8mm to the deck height to make them compatible with the MGN9 project.
+This project takes my previous MGN9 Motor Mounts project and moves everything
+further back to allow more Y axis travel. You will probably want to have 320mm
+rails (get 350mm rails and trim 30mm from it with an Inox cutting wheel on an
+angle grinder) with these mounts to give 280mm of Y travel (45mm outside the
+print bed area).
 
-I also removed the triangular mount from the bottom, as in the future I will
-have a 20x40 extrusion there to support a 3rd heated bed mount. It seems
-plenty strong enough without it.
+Also the top half is relocated a further 10mm back, as I was having a problem
+with the toolhead PCB (one that mounts to the extruder stepper) hitting the
+top mounted stepper motors. The top half of the mounts are the same as my
+previous mounts, so no need to reprint if you already have them.
 
-Finally it uses the M5x45 or M5x40 bolts from the Ender 3 (you need to tap
-your threads into the extrusion a suitable length) to mount into the 2040 Y-axis
-extrusions to make for a very strong connection.
+Also note that you will need longer belts as a consequience of moving
+everything back. Belt alignment stays the same, just the run from front to
+back is longer.
 
 You need to mount both of the motor mounts to 2020 extrusion first, as the
 M5x45 (or M5x40) bolts prevent access to the bolts that go into the end of
-the 2020 extrusion. Then you use the M5x45/40 bolts to mount the assembly
-to the frame.
-
-Note that this redesign moves the bolt positions somewhat, so that you cannot
-mix and match the top and bottom parts from Andizzles project. The belt path
-remains compatible so there should not be any effect on kinematics.
+the 2020 extrusion. Then you use the M5x45/40 bolts (4 instead of 2 in this
+version) to mount the assembly to the frame.
 
 ## Printing
 
@@ -53,7 +53,8 @@ extrusions. I have designed for the M5x45 bolts to have 19mm of thread
 protruding from the mount, so I suggest extending the thread length to
 20mm with a tap. Or use the M5x40 bolts with a 15mm tapped hole. Make
 sure to use the original thread to guide the tap in, as you don't want
-it cutting a new thread that is out of alignment.
+it cutting a new thread that is out of alignment. Make sure to tap both
+the top and bottom holes.
 
 You will also need to tap a thread into the 2020 extrusion, the length
 of the thread depends on the bolt length you use, but use a button head
