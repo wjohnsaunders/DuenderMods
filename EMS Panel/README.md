@@ -1,13 +1,18 @@
 # EMS Panel
 
-This is an EMS panel for the Duender 3D printer. What is EMS? It is a system
-for managing the electronics for 3D printers from FizzyTechs. It consists of
-a panel with hexagon cutouts, a set of hexagon shaped plugs that fit into the
-panel, and a repository of mounts for various 3D printer electrical components.
-The idea is that if you replace a component, or need to move one around, you
-can just print the mount for the new component, or move the plugs to a
-different cutout. There are also plugs for zip-ties, and a set of cable ducts
-for solving any cable management issue.
+This is an EMS panel for the Duender 3D printer. There is a version with
+6 tabs and 8 tabs. The 8 tab option is useful if the Z steppers are
+towards the middle, while the 8 tab option is better if the steppers are
+further forward.
+
+What is EMS? It is a system for managing the electronics for 3D printers
+from FizzyTechs. It consists of a panel with hexagon cutouts, a set of
+hexagon shaped plugs that fit into the panel, and a repository of mounts
+for various 3D printer electrical components. The idea is that if you
+replace a component, or need to move one around, you can just print the
+mount for the new component, or move the plugs to a different cutout.
+There are also plugs for zip-ties, and a set of cable ducts for solving
+any cable management issue.
 
 https://www.printables.com/model/558357-ft-ems-mounts-repository
 
@@ -25,7 +30,7 @@ The model is 288x249 so you will need a printer capable of 300mm. You can
 use the slicer to split it into 4 parts, then super glue it back together.
 There are “dog-bone” joiners available for EMS if gluing is not strong enough.
 
-The dimensions should give you 1mm gap in both directions, however filament
+The dimensions should give you 0.5mm gap all around, however filament
 shrinkage could cause more gap. So it's best to calibrate the shrinkage for
 your filament and set that in the slicer before printing.
 
@@ -38,12 +43,11 @@ electronics component placement while the EMS base is not installed, as it will
 be easier to make adjustments. Once you have worked out the positions, remove
 the components from the mounts, install the panel and re-install the components.
 
-Use 8 sets of M5x8 bolt and M8 T-nut (should have a bunch available from the
+Use 8/6 sets of M5x8 bolt and M8 T-nut (should have a bunch available from the
 corner braket packs) to bolt it to the upper V-slot. The EMS base should be
 flush with the bottom of the 4040 extrusions, and should clear the Z-axis
 steppers if you didn't use spacers to place them lower.
 
 ## CAD
 
-The part is designed using FreeCAD. I can't provide STEP files, sorry, as
-FreeCAD can only import STEP files, it cannot export them as far as I know.
+The part is designed using FreeCAD.
