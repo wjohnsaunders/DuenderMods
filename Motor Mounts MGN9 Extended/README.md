@@ -11,7 +11,7 @@ with the toolhead PCB (one that mounts to the extruder stepper) hitting the
 top mounted stepper motors. The top half of the mounts are the same as my
 previous mounts, so no need to reprint if you already have them.
 
-Also note that you will need longer belts as a consequience of moving
+Also note that you will need longer belts as a consequence of moving
 everything back. Belt alignment stays the same, just the run from front to
 back is longer.
 
@@ -33,14 +33,14 @@ You will need an M8 tap to cut a thread into the largest hole. This should
 be easy as it is just plastic. I will try and figure out how to design a
 thread so it gets 3D printed in a future revision.
 
-Next you need 5 heatset inserts per mount, M3x5x4, which go into the 5
+Next you need 5 heat-set inserts per mount, M3x5x4, which go into the 5
 middle sized holes. The circular end of the insert should fit into the
 hole, then push it all the way in with a soldering iron.
 
 Note: In order to get the insert properly aligned, I push it almost in,
 then flip the part over and press down hard on a flat heat resistance
 surface (I use a small sheet of aluminum on my desk). The remaining heat
-alows the insert to go all the way in, and the flat surface ensures the
+allows the insert to go all the way in, and the flat surface ensures the
 insert is properly aligned when the plastic sets hard.
 
 Move your bearing stacks from the existing top cover to the new top cover.
